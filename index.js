@@ -11,10 +11,10 @@ const app = express()
 const port = 3000
 
 //Database configuration
-const dbHost = "localhost"
+const dbHost = "x8autxobia7sgh74.cbetxkdyhwsb.us-east-1.rds.amazonaws.com"
 const dbPort = 3306;
-const dbUsername = "root"
-const dbPassword = "root"
+const dbUsername = "w6xerhqayi078o8r"
+const dbPassword = "yrkdmfqy5mulhuro"
 
 app.use(function(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
